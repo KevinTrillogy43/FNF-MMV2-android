@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MM_IHY_Boyfriend_AssetsFINAL IDLE"
+		},
+		{
+			"offsets": [
+				-24,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MM_IHY_Boyfriend_AssetsFINAL DOWN"
+		},
+		{
+			"offsets": [
+				4,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MM_IHY_Boyfriend_AssetsFINAL LEFT"
+		},
+		{
+			"offsets": [
+				-30,
+				89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MM_IHY_Boyfriend_AssetsFINAL UP"
+		},
+		{
+			"offsets": [
+				-1,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MM_IHY_Boyfriend_AssetsFINAL RIGHT"
+		},
+		{
+			"offsets": [
+				220,
+				90
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "spin",
+			"indices": [],
+			"name": "MM_IHY_Boyfriend_AssetsFINAL Spin"
+		},
+		{
+			"offsets": [
+				40,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "prejump",
+			"indices": [],
+			"name": "MM_IHY_Boyfriend_AssetsFINAL PreJump"
+		},
+		{
+			"offsets": [
+				297,
+				54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "MM_IHY_Boyfriend_AssetsFINAL Attack"
+		},
+		{
+			"offsets": [
+				55,
+				56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "MM_IHY_Boyfriend_AssetsFINAL Yeah"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MM_IHY_Boyfriend_AssetsFINAL",
+	"position": [
+		220,
+		460
+	],
+	"healthicon": "bfworld",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		480,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1.9
+}

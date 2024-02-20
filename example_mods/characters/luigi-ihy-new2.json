@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-55,
+				86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Luigi_IHY_Assets_New2 Idle"
+		},
+		{
+			"offsets": [
+				2,
+				-96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Luigi_IHY_Assets_New2 Down"
+		},
+		{
+			"offsets": [
+				151,
+				149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Luigi_IHY_Assets_New2 Left"
+		},
+		{
+			"offsets": [
+				41,
+				236
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Luigi_IHY_Assets_New2 Up"
+		},
+		{
+			"offsets": [
+				-2,
+				86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Luigi_IHY_Assets_New2 Right"
+		},
+		{
+			"offsets": [
+				130,
+				180
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "fall",
+			"indices": [],
+			"name": "Luigi_IHY_Assets_New2 Falling"
+		},
+		{
+			"offsets": [
+				-210,
+				-161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hand",
+			"indices": [],
+			"name": "Luigi_IHY_Assets_New2 Lava Hand"
+		},
+		{
+			"offsets": [
+				44,
+				218
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "knees-loop",
+			"indices": [],
+			"name": "Luigi_IHY_Assets_New2 Knees Idle"
+		},
+		{
+			"offsets": [
+				44,
+				218
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "knees",
+			"indices": [],
+			"name": "Luigi_IHY_Assets_New2 Knees"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Luigi_IHY_Assets_New2",
+	"position": [
+		170,
+		230
+	],
+	"healthicon": "luigiH2",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		180,
+		0
+	],
+	"camera_position": [
+		-220,
+		-460
+	],
+	"sing_duration": 4,
+	"scale": 1.8
+}
